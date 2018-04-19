@@ -1,0 +1,16 @@
+color,gender,age,income,city
+#00ff00,male,20,1000,Barcelona
+#00ff00,male,26,1500,Amsterdam
+#ff9900,female,22,800,Madrid
+#00ff00,male,18,700,Barcelona
+#ff9900,female,26,1200,Madrid
+#ff9900,female,35,600,Valencia
+#00ff00,male,32,1300,Madrid
+#00ff00,male,29,1800,Barcelona
+#00ff00,male,50,5000,amsterdam
+#ff9900,female,40,0,amsterdam
+#ff9900,female,19,30,utrecht
+#ff9900,female,40,8000,mexico city
+#00ff00,male,33,200,arnhem
+#00ff00,male,22,100,arnhem
+#ff9900,female,22,300,nijmegen
